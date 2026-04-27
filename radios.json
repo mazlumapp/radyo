@@ -1,6 +1,6 @@
 [  {
     "tvButtonEnabled": false,
-    "storeButtonEnabled": true,
+    "storeButtonEnabled": false,
     "actionUrl": "https://play.google.com/store/apps/details?id=com.radyom.kurtceradyo",
     "stations": [
       {
