@@ -1,15 +1,17 @@
-[
-{
-  "tvButtonEnabled": true,
-  "storeButtonEnabled": true,
-  "actionUrl": "https://play.google.com/store/apps/details?id=com.radyom.kurtceradyo",
-  "stations": [
-    {
-      "id": "1",
-      "name": "Radyo 1"
-    }
-  ]
-}
+The entire JSON content from the provided URL is as follows:
+
+```
+[  {
+    "tvButtonEnabled": true,
+    "storeButtonEnabled": true,
+    "actionUrl": "https://play.google.com/store/apps/details?id=com.radyom.kurtceradyo",
+    "stations": [
+      {
+        "id": "1",
+        "name": "Radyo 1"
+      }
+    ]
+  },
   {
     "id": "1000",
     "name": "Kurdistan24",
