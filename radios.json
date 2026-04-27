@@ -1,10 +1,10 @@
 [
-  {  "adEnabled": true,
-  "adUnitId": "ca-app-pub-3940256099942544/5224354917",
+{
+  "adEnabled": true,
+  "adUnitId": "...",
   "minAppVersion": 1,
-  "tvButtonEnabled": true,
-  "tvButtonText": "ZINDÎ TV",
-  "tvButtonUrl": "https://yayin-linkiniz.com/kanal.m3u8"
+  "storeButtonEnabled": true, 
+  "storeButtonUrl": "https://play.google.com/store/apps/details?id=PAKET_ADINIZ"
 }
   {
     "id": "1",
