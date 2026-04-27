@@ -6,6 +6,12 @@
   "storeButtonEnabled": true, 
   "storeButtonUrl": "https://play.google.com/store/apps/details?id=PAKET_ADINIZ"
 }
+      {
+      "storeButtonEnabled": true,
+      "storeButtonUrl": "https://play.google.com/store/apps/details?id=PAKET_ADINIZ",
+      ...
+    }
+    
   {
     "id": "1",
     "name": "Kurdistan24",
