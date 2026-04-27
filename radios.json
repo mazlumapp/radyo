@@ -4,9 +4,12 @@
   "storeButtonEnabled": false,
   "actionUrl": "https://play.google.com/store/apps/details?id=com.radyom.kurtceradyo",
   "stations": [
-    { "id": "1", "name": "Radyo 1", ... }
-  
-},
+    {
+      "id": "1",
+      "name": "Radyo 1"
+    }
+  ]
+}
   {
     "id": "1000",
     "name": "Kurdistan24",
