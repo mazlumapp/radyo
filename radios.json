@@ -1,11 +1,9 @@
 [
 {
-  "adEnabled": false,
-  "adUnitId": "ca-app-pub-xxx/xxx",
-  "minAppVersion": 1,
   "tvButtonEnabled": true,
-  "storeButtonEnabled": true,
-  "actionUrl": "https://play.google.com/store/apps/details?id=app.drivingo"
+  "storeButtonEnabled": false,
+  "actionUrl": "https://play.google.com/store/apps/details?id=com.radyom.kurtceradyo",
+  "stations": []
 }
   {
     "id": "1",
