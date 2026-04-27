@@ -1,17 +1,13 @@
 [
 {
   "adEnabled": true,
-  "adUnitId": "...",
-  "minAppVersion": 1,
-  "storeButtonEnabled": true, 
-  "storeButtonUrl": "https://play.google.com/store/apps/details?id=PAKET_ADINIZ"
+  "adUnitId": "ca-app-pub-xxx/xxx",
+  "minAppVersion": 555,
+  "tvButtonEnabled": true,
+  "tvButtonUrl": "https://tv-adresiniz.com",
+  "storeButtonEnabled": true,
+  "storeButtonUrl": "https://magaza-adresiniz.com"
 }
-      {
-      "storeButtonEnabled": true,
-      "storeButtonUrl": "https://play.google.com/store/apps/details?id=PAKET_ADINIZ",
-      ...
-    }
-    
   {
     "id": "1",
     "name": "Kurdistan24",
