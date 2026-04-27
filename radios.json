@@ -1,12 +1,14 @@
 [
 {
   "tvButtonEnabled": true,
-  "storeButtonEnabled": true,
+  "storeButtonEnabled": false,
   "actionUrl": "https://play.google.com/store/apps/details?id=com.radyom.kurtceradyo",
-  "stations": []
+  "stations": [
+    { "id": "1", "name": "Radyo 1", ... }
+  ]
 }
   {
-    "id": "1",
+    "id": "1000",
     "name": "Kurdistan24",
     "description": "nuçe",
     "streamUrl": "https://audio-edge-5bkfj.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
