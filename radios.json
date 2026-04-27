@@ -1,4 +1,11 @@
 [
+  {  "adEnabled": true,
+  "adUnitId": "ca-app-pub-3940256099942544/5224354917",
+  "minAppVersion": 1,
+  "tvButtonEnabled": true,
+  "tvButtonText": "ZINDÎ TV",
+  "tvButtonUrl": "https://yayin-linkiniz.com/kanal.m3u8"
+}
   {
     "id": "1",
     "name": "Kurdistan24",
