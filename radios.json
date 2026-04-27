@@ -1,12 +1,11 @@
 [
 {
-  "adEnabled": true,
+  "adEnabled": false,
   "adUnitId": "ca-app-pub-xxx/xxx",
-  "minAppVersion": 555,
+  "minAppVersion": 1,
   "tvButtonEnabled": true,
-  "tvButtonUrl": "https://tv-adresiniz.com",
   "storeButtonEnabled": true,
-  "storeButtonUrl": "https://magaza-adresiniz.com"
+  "actionUrl": "https://play.google.com/store/apps/details?id=app.drivingo"
 }
   {
     "id": "1",
