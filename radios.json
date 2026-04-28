@@ -84,14 +84,6 @@
     "isFeatured": false
   },
   {
-    "id": "12",
-    "name": "Hazar FM",
-    "description": "kurdi",
-    "streamUrl": "https://yayin.hazarfm.com/0056/stream.mp3",
-    "imageUrl": "https://hazarfm.com/wp-content/uploads/2021/02/13.png",
-    "isFeatured": false
-  },
-  {
     "id": "13",
     "name": "Joy Türk",
     "description": "Türkçe Slow",
