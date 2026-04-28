@@ -82,63 +82,6 @@
     "streamUrl": "https://amed.ozelip.com/8040/stream", 
     "imageUrl": "https://scontent.fist4-1.fna.fbcdn.net/v/t39.30808-6/385889790_881281403361316_8326203334028305568_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=llg14KG9W6UQ7kNvwHIh29k&_nc_oc=AdoeCK7HuPouuHUdZIvJ87tPzr7KYH2NA5gN0h0ndNpehNEUTTBKmvbVcmIgu6WDqF9O9SYIO2N9dy2gfmr91iF6&_nc_zt=23&_nc_ht=scontent.fist4-1.fna&_nc_gid=Y6QigOu_Bxk3iotbCxF9zQ&_nc_ss=7b289&oh=00_Af0BVEEzXOcZKNwbHMPIHBu49Rm4nwH-7Ye_erKV696e_A&oe=69F675C6",
     "isFeatured": false
-  },    "isFeatured": false
-  },
-  {
-    "id": "24",
-    "name": "Radio Mydonose",
-    "description": "Yabancı Müzik",
-    "streamUrl": "http://provisioning.streamtheworld.com/pls/SC010_SO1AAC.pls",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "25",
-    "name": "Radyo 45'lik",
-    "description": "Türkçe Klasik",
-    "streamUrl": "http://stream.radyo45lik.com:4545/;stream.mp3",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "26",
-    "name": "Radyo Dejavu",
-    "description": "Türkçe Klasik",
-    "streamUrl": "http://radyodejavu.canliyayinda.com:8054/",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "27",
-    "name": "Radyo Kordelya",
-    "description": "Türk Sanat M.",
-    "streamUrl": "http://38.96.148.39:8488/",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "28",
-    "name": "Radyo Ege",
-    "description": "Türkçe Pop",
-    "streamUrl": "http://stream2.taksimbilisim.com:8010/;",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "29",
-    "name": "Radyo Fenomen",
-    "description": "Yabancı Müzik",
-    "streamUrl": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "30",
-    "name": "Radyo FG FM",
-    "description": "Yabancı Müzik",
-    "streamUrl": "http://37.1.145.21:9001/;stream.mp3",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
   },
   
 ]
