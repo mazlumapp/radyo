@@ -39,7 +39,7 @@
     "id": "5",
     "name": "radyo Dersim",
     "description": "stran",
-    "streamUrl": "https://us1new.listen2myradio.com:12004/stream/;",
+    "streamUrl": "https://us1new.listen2myradio.com:12004/radyom.mp3",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPiRfxB2pqq65VrFx5s_zuQjO0V6dQpiIdQ&s",
     "isFeatured": true
   },
