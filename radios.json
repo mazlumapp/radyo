@@ -1,6 +1,6 @@
 [  
   {
-    "id": "1000",
+    "id": "1",
     "name": "Kurdistan24",
     "description": "nuçe",
     "streamUrl": "https://audio-edge-5bkfj.fra.h.radiomast.io/04b1ce4c-24f2-4172-b756-065832ef78bf",
@@ -76,7 +76,7 @@
     "isFeatured": false
   },
   {
-    "id": "600",
+    "id": "10",
     "name": "Azadi FM",
     "description": "KURDİ",
     "streamUrl": "https://amed.ozelip.com/8040/stream",
@@ -84,7 +84,7 @@
     "isFeatured": false
   },
   {
-    "id": "700",
+    "id": "11",
     "name": "Hazar FM",
     "description": "KURDİ",
     "streamUrl": "https://yayin.hazarfm.com/0056/stream.mp3",
@@ -92,7 +92,7 @@
     "isFeatured": false
   },
   {
-    "id": "800",
+    "id": "12",
     "name": "Joy FM",
     "description": "Türkçe Slow",
     "streamUrl": "http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls",
@@ -100,7 +100,7 @@
     "isFeatured": false
   },
   {
-    "id": "900",
+    "id": "13",
     "name": "Joy Türk",
     "description": "Türkçe Slow",
     "streamUrl": "http://provisioning.streamtheworld.com/pls/JOY_TURKAAC.pls",
@@ -108,7 +108,7 @@
     "isFeatured": false
   },
   {
-    "id": "1000",
+    "id": "14",
     "name": "Kafa Radyo",
     "description": "Türkçe Pop",
     "streamUrl": "http://46.20.3.246/stream/507/",
@@ -116,7 +116,7 @@
     "isFeatured": false
   },
   {
-    "id": "11",
+    "id": "151",
     "name": "Kordon Fm",
     "description": "Türkçe Pop",
     "streamUrl": "http://38.96.148.39:8588",
@@ -124,7 +124,7 @@
     "isFeatured": false
   },
   {
-    "id": "12",
+    "id": "16",
     "name": "Kral Fm",
     "description": "Arabesk",
     "streamUrl": "http://46.20.3.204:80/",
@@ -132,7 +132,7 @@
     "isFeatured": true
   },
   {
-    "id": "13",
+    "id": "17",
     "name": "Kral Pop Radyo",
     "description": "Türkçe Pop",
     "streamUrl": "http://46.20.3.201:80/",
@@ -140,7 +140,7 @@
     "isFeatured": false
   },
   {
-    "id": "14",
+    "id": "18",
     "name": "Metro Fm",
     "description": "Yabancı Müzik",
     "streamUrl": "http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls",
@@ -148,7 +148,7 @@
     "isFeatured": false
   },
   {
-    "id": "15",
+    "id": "19",
     "name": "Pal Nostalji",
     "description": "Türkçe Klasik",
     "streamUrl": "http://46.20.13.51:1300",
@@ -156,7 +156,7 @@
     "isFeatured": false
   },
   {
-    "id": "16",
+    "id": "20",
     "name": "Pal Station",
     "description": "Yabancı Müzik",
     "streamUrl": "http://46.20.13.51:1240",
@@ -164,7 +164,7 @@
     "isFeatured": false
   },
   {
-    "id": "17",
+    "id": "21",
     "name": "POP 90",
     "description": "Türkçe Klasik",
     "streamUrl": "http://provisioning.streamtheworld.com/pls/POP90AAC.pls",
@@ -172,7 +172,7 @@
     "isFeatured": false
   },
   {
-    "id": "18",
+    "id": "22",
     "name": "Power Fm",
     "description": "Yabancı Müzik",
     "streamUrl": "http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio",
@@ -180,7 +180,7 @@
     "isFeatured": false
   },
   {
-    "id": "19",
+    "id": "23",
     "name": "Power Türk",
     "description": "Türkçe Pop",
     "streamUrl": "http://icast.powergroup.com.tr/PowerTurk/mpeg/128/home",
@@ -188,7 +188,7 @@
     "isFeatured": false
   },
   {
-    "id": "20",
+    "id": "24",
     "name": "Radio Mydonose",
     "description": "Yabancı Müzik",
     "streamUrl": "http://provisioning.streamtheworld.com/pls/SC010_SO1AAC.pls",
@@ -196,7 +196,7 @@
     "isFeatured": false
   },
   {
-    "id": "21",
+    "id": "25",
     "name": "Radyo 45'lik",
     "description": "Türkçe Klasik",
     "streamUrl": "http://stream.radyo45lik.com:4545/;stream.mp3",
@@ -204,7 +204,7 @@
     "isFeatured": false
   },
   {
-    "id": "22",
+    "id": "26",
     "name": "Radyo Dejavu",
     "description": "Türkçe Klasik",
     "streamUrl": "http://radyodejavu.canliyayinda.com:8054/",
@@ -212,7 +212,7 @@
     "isFeatured": false
   },
   {
-    "id": "23",
+    "id": "27",
     "name": "Radyo Kordelya",
     "description": "Türk Sanat M.",
     "streamUrl": "http://38.96.148.39:8488/",
@@ -220,7 +220,7 @@
     "isFeatured": false
   },
   {
-    "id": "24",
+    "id": "28",
     "name": "Radyo Ege",
     "description": "Türkçe Pop",
     "streamUrl": "http://stream2.taksimbilisim.com:8010/;",
@@ -228,7 +228,7 @@
     "isFeatured": false
   },
   {
-    "id": "25",
+    "id": "29",
     "name": "Radyo Fenomen",
     "description": "Yabancı Müzik",
     "streamUrl": "http://fenomen.listenfenomen.com/fenomen/128/icecast.audio",
@@ -236,91 +236,12 @@
     "isFeatured": false
   },
   {
-    "id": "26",
+    "id": "30",
     "name": "Radyo FG FM",
     "description": "Yabancı Müzik",
     "streamUrl": "http://37.1.145.21:9001/;stream.mp3",
     "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
     "isFeatured": false
   },
-  {
-    "id": "27",
-    "name": "Radyo Odtu",
-    "description": "Yabancı Rock",
-    "streamUrl": "http://stream.radyoodtu.com.tr/rock;",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "28",
-    "name": "Radyo Pause",
-    "description": "Türkçe Pop",
-    "streamUrl": "http://live5.radyotvonline.com:8010/listen.pls",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "29",
-    "name": "Radyo Trafik",
-    "description": "Yol Marmara",
-    "streamUrl": "http://46.20.3.201:80/",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "30",
-    "name": "Radyo Viva",
-    "description": "Türkçe Pop",
-    "streamUrl": "http://46.20.3.230/listen.pls",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "31",
-    "name": "Retro Türk",
-    "description": "Türkçe Klasik",
-    "streamUrl": "http://provisioning.streamtheworld.com/pls/RETROTURKAAC.pls",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "32",
-    "name": "Show Radyo",
-    "description": "Türkçe Pop",
-    "streamUrl": "http://windows.showradyo.com.tr/;",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "33",
-    "name": "Slow Türk",
-    "description": "Türkçe Pop",
-    "streamUrl": "https://r3.rocketcdn.com/slowturk/abr/playlist.m3u8",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "34",
-    "name": "Süper Fm",
-    "description": "Türkçe Pop",
-    "streamUrl": "http://provisioning.streamtheworld.com/pls/SUPER_FMAAC.pls",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "35",
-    "name": "TRT Fm",
-    "description": "Türkçe Pop",
-    "streamUrl": "http://trtcanlifm-lh.akamaihd.net/i/TRTFM_1@181846/master.m3u8",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  },
-  {
-    "id": "36",
-    "name": "X Nostalji",
-    "description": "Türkçe Klasik",
-    "streamUrl": "http://46.20.13.51:1140/",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
-    "isFeatured": false
-  }
+  
 ]
