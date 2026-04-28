@@ -85,10 +85,10 @@
   },
   {
     "id": "700",
-    "name": "İstanbul Fm",
-    "description": "Türkçe Pop",
-    "streamUrl": "http://45.32.154.169:9300/;",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
+    "name": "Hazar FM",
+    "description": "KURDİ",
+    "streamUrl": "https://yayin.hazarfm.com/0056/stream.mp3",
+    "imageUrl": "https://www.rshsoft.com.tr/resources/uploads/references/2025-09-02/192424ed3602b1ce6db9ea4.png",
     "isFeatured": false
   },
   {
