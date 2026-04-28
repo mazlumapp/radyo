@@ -39,7 +39,7 @@
     "id": "5",
     "name": "radyo Dersim",
     "description": "stran",
-    "streamUrl": "https://us1new.listen2myradio.com:12004/stream.mp3;",
+    "streamUrl": "https://us1new.listen2myradio.com:12004/;",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxPiRfxB2pqq65VrFx5s_zuQjO0V6dQpiIdQ&s",
     "isFeatured": true
   },
@@ -61,10 +61,10 @@
   },
   {
     "id": "8",
-    "name": "Best Fm",
+    "name": "Radyo Dengê Kurdî",
     "description": "Türkçe Pop",
-    "streamUrl": "http://46.20.7.125/listen.pls",
-    "imageUrl": "https://images.unsplash.com/photo-1598488035139-bdbb2231ce04?q=80&w=200",
+    "streamUrl": "http://anadolu.liderhost.com.tr:8094/stream",
+    "imageUrl": "https://play-lh.googleusercontent.com/vcJQNs0805VvIPugw3bX5ByH9lRk-3izZYwBJzIhAVlkaNiHxM2t-1Zpfx0LfL6qNwU",
     "isFeatured": false
   },
   {
