@@ -24,7 +24,7 @@
     "streamUrl": "https://live.radyositesihazir.com/8030/stream",
     "imageUrl": "https://www.radyogoynuk.net/uploads/logom/xlogo_5.png",
     "isFeatured": false,
-    "isNuce": true
+    "isNuce": false
   },
   {
     "id": "4",
@@ -49,7 +49,8 @@
     "description": "Stran",
     "streamUrl": "https://live.radyo.in/8012/stream",
     "imageUrl": "https://www.vengradyo.com/radyogorsel.jpg",
-    "isFeatured": true
+    "isFeatured": false,
+    "isNuce": true
   },
   {
     "id": "7",
