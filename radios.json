@@ -101,5 +101,14 @@
     "imageUrl": "https://play-lh.googleusercontent.com/jbAHyIv4cEzChzXHBUQBNOrnQlzo3ftqm0Jj5Sf9zEHlPApapd-rWsAHREzkweiTw_o=w240-h480-rw",
     "isFeatured": true,
     "isNuce": false
+  },
+  {
+    "id": "13",
+    "name": "Denge ilahi fm",
+    "description": "KURDİ",
+    "streamUrl": "https://ssl22.radyotelekom.com:8224/;",
+    "imageUrl": "https://kurtceradyolar.net/content/img/radyoistek/1000091891.png",
+    "isFeatured": true,
+    "isNuce": false
   }
 ]
