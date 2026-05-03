@@ -28,9 +28,9 @@
   {
     "stationuuid": "tr-power-turk",
     "name": "Power Türk",
-    "url": "http://powerturk.listenpowerapp.com/powerturk/mpeg.128",
-    "url_resolved": "http://powerturk.listenpowerapp.com/powerturk/mpeg.128",
-    "favicon": "https://www.powerapp.com.tr/assets/images/logos/powerturk.png",
+    "url": "https://live.powerapp.com.tr/powerturk/abr/powerturk/96/chunks.m3u8",
+    "url_resolved": "https://live.powerapp.com.tr/powerturk/abr/powerturk/96/chunks.m3u8",
+    "favicon": "https://i.haber3.com/2/1280/720/files/2020/4/19/5252576/power-turk-VAJ.jpg.webp",
     "tags": "pop,hits",
     "country": "Turkey",
     "countrycode": "TR",
