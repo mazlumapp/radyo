@@ -110,5 +110,14 @@
     "imageUrl": "https://kurtceradyolar.net/content/img/radyoistek/1000091891.png",
     "isFeatured": true,
     "isNuce": false
+  },
+  {
+    "id": "14",
+    "name": "Cemre fm",
+    "description": "KURDİ",
+    "streamUrl": "https://live.cemrefm.net/cemrefm",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6uWXuP0BNUYknIxpH57WHXEyM7uhAgYnc8g&s",
+    "isFeatured": true,
+    "isNuce": false
   }
 ]
