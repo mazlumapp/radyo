@@ -54,9 +54,9 @@
   {
     "stationuuid": "tr-slow-turk",
     "name": "Slow Türk",
-    "url": "https://radyo.kanald.com.tr/slowturk",
-    "url_resolved": "https://radyo.kanald.com.tr/slowturk",
-    "favicon": "https://www.slowturk.com.tr/assets/img/logo.png",
+    "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+    "url_resolved": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+    "favicon": "https://play-lh.googleusercontent.com/zigNezQwbOiksaYwf5v03QdMUa4hNcFUQt1ERc0fCwwHTakB0TFosSz23Mhej0QPmGQ",
     "tags": "slow,pop,love",
     "country": "Turkey",
     "countrycode": "TR",
