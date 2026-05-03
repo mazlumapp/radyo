@@ -83,5 +83,14 @@
     "streamUrl": "https://stream.zeno.fm/xzzu8kynq2zuv",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn0Ua-HOuFQJgPR4AwWRB_tZWwq65jo2R8XQ&s",
     "isFeatured": false
+  },
+  {
+    "id": "11",
+    "name": "Zerguwan fm",
+    "description": "KURDİ",
+    "streamUrl": "https://ip.zerguwan.com:9994/;",
+    "imageUrl": "https://i.ytimg.com/vi/xKY1mSMhpwY/sddefault.jpg",
+    "isFeatured": true,
+    "isNuce": false
   }
 ]
