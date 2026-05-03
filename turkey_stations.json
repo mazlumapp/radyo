@@ -36,7 +36,7 @@
     "countrycode": "TR",
     "language": "Turkish",
     "bitrate": 128,
-    "codec": "MP3"
+    "codec": "m3u8"
   },
   {
     "stationuuid": "tr-metro-fm",
@@ -49,7 +49,7 @@
     "countrycode": "TR",
     "language": "Turkish",
     "bitrate": 128,
-    "codec": "MP3"
+    "codec": "aac"
   },
   {
     "stationuuid": "tr-slow-turk",
