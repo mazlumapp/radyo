@@ -67,9 +67,9 @@
   {
     "stationuuid": "tr-fenomen",
     "name": "Radyo Fenomen",
-    "url": "http://fenomen.listenpowerapp.com/fenomen/mpeg.128",
-    "url_resolved": "http://fenomen.listenpowerapp.com/fenomen/mpeg.128",
-    "favicon": "https://www.radyofenomen.com/assets/img/logo.png",
+    "url": "https://live.radyofenomen.com/fenomen/abr/fenomen/128/chunks.m3u8",
+    "url_resolved": "https://live.radyofenomen.com/fenomen/abr/fenomen/128/chunks.m3u8",
+    "favicon": "https://yt3.googleusercontent.com/ytc/AIdro_k0eWOovpJkBGybfYGZb2Tw6Z_6drOxgpnB0dRxuII1taY=s900-c-k-c0x00ffffff-no-rj",
     "tags": "pop,hits,dance",
     "country": "Turkey",
     "countrycode": "TR",
