@@ -80,9 +80,9 @@
   {
     "stationuuid": "tr-super-fm",
     "name": "Süper FM",
-    "url": "http://17733.live.streamtheworld.com/SUPER_FM_SC",
-    "url_resolved": "http://17733.live.streamtheworld.com/SUPER_FM_SC",
-    "favicon": "https://superfm.com.tr/assets/img/logo.png",
+    "url": "https://25553.live.streamtheworld.com/SUPER_FM128AAC.aac",
+    "url_resolved": "https://25553.live.streamtheworld.com/SUPER_FM128AAC.aac",
+    "favicon": "https://mediacdns.karnaval.com/media/station_media/1/logos/meta_image.png?v=110924010341",
     "tags": "pop",
     "country": "Turkey",
     "countrycode": "TR",
