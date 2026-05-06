@@ -93,15 +93,15 @@
   {
     "stationuuid": "tr-alem-fm",
     "name": "Alem FM",
-    "url": "https://turkmedya.radyotvonline.net/alemfm",
-    "url_resolved": "https://turkmedya.radyotvonline.net/alemfm",
+    "url": "https://alemfm.radyotvonline.net/alemfmaac",
+    "url_resolved": "https://alemfm.radyotvonline.net/alemfmaac",
     "favicon": "https://yt3.googleusercontent.com/ytc/AIdro_ntnDGwKXmMEgxSCCwjKzhRoXnfYcgtIgwTgeXrY6ITwUQ=s900-c-k-c0x00ffffff-no-rj",
     "tags": "pop,talk",
     "country": "Turkey",
     "countrycode": "TR",
     "language": "Turkish",
     "bitrate": 128,
-    "codec": "MP3"
+    "codec": "aac"
   },
   {
     "stationuuid": "tr-joy-fm",
