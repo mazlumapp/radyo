@@ -132,8 +132,8 @@
   {
     "stationuuid": "tr-eksen",
     "name": "Radyo Eksen",
-    "url": "https://eksen.canliyayin.org/",
-    "url_resolved": "https://eksen.canliyayin.org/",
+    "url": "https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8",
+    "url_resolved": "https://dygedge.radyotvonline.net/radyoeksen/playlist.m3u8",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI9_18Ck6YPfSx2ADzibNH0-EfRn2eXdRNhMBTVlFFZSIuT721rhx5WFI&s=10",
     "tags": "rock,alternative",
     "country": "Turkey",
