@@ -153,7 +153,7 @@
     "countrycode": "TR",
     "language": "Turkish",
     "bitrate": 128,
-    "codec": "MP3"
+    "codec": "stream"
   },
   {
     "stationuuid": "tr-joy-turk",
