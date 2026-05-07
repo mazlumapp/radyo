@@ -284,18 +284,5 @@
     "language": "Turkish",
     "bitrate": 128,
     "codec": "aac"
-  },
-  {
-    "stationuuid": "tr-Mydonose",
-    "name": "Radio Mydonose",
-    "url": "https://27823.live.streamtheworld.com/JOY_TURK128AAC.aac",
-    "url_resolved": "https://27823.live.streamtheworld.com/JOY_TURK128AAC.aac",
-    "favicon": "https://mediacdns.karnaval.com/media/station_media/5/logos/android_default_logo.png?v=041022033737",
-    "tags": "Yabancı Hit, Pop, Dans",
-    "country": "Turkey",
-    "countrycode": "TR",
-    "language": "Turkish",
-    "bitrate": 128,
-    "codec": "aac"
   }
 ]
