@@ -145,8 +145,8 @@
   {
     "stationuuid": "tr-virgin",
     "name": "Virgin Radio",
-    "url": "http://17733.live.streamtheworld.com/VIRGIN_RADIO_SC",
-    "url_resolved": "http://17733.live.streamtheworld.com/VIRGIN_RADIO_SC",
+    "url": "https://28033.live.streamtheworld.com/VIRGIN_RADIOAAC.aac",
+    "url_resolved": "https://28033.live.streamtheworld.com/VIRGIN_RADIOAAC.aac",
     "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToYM8hN8rBtwIv7gYdhCDaNhgtSYCIGYyX_1Eb654UCAq8UWmvxx7hUjM&s=10",
     "tags": "pop,hit,dance",
     "country": "Turkey",
