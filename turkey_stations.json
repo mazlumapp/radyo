@@ -485,16 +485,7 @@
         "bitrate": 64,
         "isFavorite": true
     },
-    {
-        "stationuuid": "2a372113-4b74-41aa-a1e8-3dcb5d66de61",
-        "name": "JOY TÜRK TURKEY",
-        "url": "https://27793.live.streamtheworld.com/JOY_TURK128AAC.aac",
-        "favicon": "https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png?v=290425114642",
-        "tags": "Slow,Pop",
-        "country": "Türkiye",
-        "bitrate": 64,
-        "isFavorite": true
-    },
+    
     {
         "stationuuid": "c7dadc87-3c43-46f5-aa24-91e0fa9a7643",
         "name": "Joy Fm",
