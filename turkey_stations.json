@@ -1,4 +1,18 @@
 [
+  
+  {
+    "stationuuid": "tr-kalp-fm",
+    "name": "Kalp FM",
+    "url": "https://yayin.kalpfm.com:8080/stream",
+    "url_resolved": "https://yayin.kalpfm.com:8080/stream",
+    "favicon": "https://cdn.radoxo.com/images/turkey/kalp-fm.webp?v=1778241602",
+    "tags": "Slow, Romantik, Türkçe Pop, Akustik",
+    "country": "Turkey",
+    "countrycode": "TR",
+    "language": "Turkish",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
   {
     "stationuuid": "tr-trt-fm",
     "name": "TRT FM",
