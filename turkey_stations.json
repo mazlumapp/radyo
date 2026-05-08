@@ -279,7 +279,7 @@
     "url": "https://25653.live.streamtheworld.com/POP90128AAC.aac",
     "url_resolved": "https://25653.live.streamtheworld.com/POP90128AAC.aac",
     "favicon": "https://mediacdns.karnaval.com/media/station_media/41/logos/android_default_logo.png?v=041022033335",
-    "tags": "90'lar,80'ler,Fantezi",
+    "tags": "90'lar,80'lar,Fantezi",
     "country": "Turkey",
     "countrycode": "TR",
     "language": "Turkish",
@@ -430,7 +430,7 @@
         "name": "Erzincan Nostalji Radyo ",
         "url": "https://erzincannostalji.ozelip.com/8238/stream",
         "favicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB08F9F_fntHyKgQoVsf07UYR-iwJVXB-fz4B-s78-XqKX7_Qg-nR4Pm9E&s=10",
-        "tags": "Nostalji,70'ler-80'ler, Türkü ",
+        "tags": "Nostalji,80'lar,90'lar, Türkü ",
         "country": "Türkiye",
         "bitrate": 128,
         "isFavorite": true
@@ -488,8 +488,8 @@
     {
         "stationuuid": "2a372113-4b74-41aa-a1e8-3dcb5d66de61",
         "name": "JOY TÜRK TURKEY",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
-        "favicon": "https://mediacdns.karnaval.com/media/station_media/4/logos/meta_image.png?v=150225010610",
+        "url": "https://27793.live.streamtheworld.com/JOY_TURK128AAC.aac",
+        "favicon": "https://mediacdns.karnaval.com/media/station_media/4/logos/android_default_logo.png?v=290425114642",
         "tags": "Slow,Pop",
         "country": "Türkiye",
         "bitrate": 64,
@@ -498,8 +498,8 @@
     {
         "stationuuid": "c7dadc87-3c43-46f5-aa24-91e0fa9a7643",
         "name": "Joy Fm",
-        "url": "http://provisioning.streamtheworld.com/pls/JOY_FMAAC.pls",
-        "favicon": "https://mediacdns.karnaval.com/media/station_media/3/logos/meta_image.png?v=110924010533",
+        "url": "https://25643.live.streamtheworld.com/JOY_FM128AAC.aac",
+        "favicon": "https://mediacdns.karnaval.com/media/station_media/3/logos/android_default_logo.png?v=041022033036",
         "tags": "Yabancı Slow , Pop",
         "country": "Türkiye",
         "bitrate": 64,
@@ -558,7 +558,7 @@
     {
         "stationuuid": "0012c08a-31e7-48c6-87a9-7f64736e0a38",
         "name": "Metro FM",
-        "url": "http://provisioning.streamtheworld.com/pls/METRO_FMAAC.pls",
+        "url": "https://29083.live.streamtheworld.com/METRO_FM128AAC.aac.pls",
         "favicon": "https://mediacdns.karnaval.com/media/station_media/2/logos/meta_image.png",
         "tags": "Yabancı Pop / Hit",
         "country": "Türkiye",
